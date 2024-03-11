@@ -1,0 +1,7 @@
+C:\Users\micuc\Documents\GitHub\Lambda-Expression-Assignment\Lambda Expression Assignment\Lambda Expression Assignment\bin\Debug\Lambda Expression Assignment.exe.config
+C:\Users\micuc\Documents\GitHub\Lambda-Expression-Assignment\Lambda Expression Assignment\Lambda Expression Assignment\bin\Debug\Lambda Expression Assignment.exe
+C:\Users\micuc\Documents\GitHub\Lambda-Expression-Assignment\Lambda Expression Assignment\Lambda Expression Assignment\bin\Debug\Lambda Expression Assignment.pdb
+C:\Users\micuc\Documents\GitHub\Lambda-Expression-Assignment\Lambda Expression Assignment\Lambda Expression Assignment\obj\Debug\Lambda Expression Assignment.csproj.AssemblyReference.cache
+C:\Users\micuc\Documents\GitHub\Lambda-Expression-Assignment\Lambda Expression Assignment\Lambda Expression Assignment\obj\Debug\Lambda Expression Assignment.csproj.CoreCompileInputs.cache
+C:\Users\micuc\Documents\GitHub\Lambda-Expression-Assignment\Lambda Expression Assignment\Lambda Expression Assignment\obj\Debug\Lambda Expression Assignment.exe
+C:\Users\micuc\Documents\GitHub\Lambda-Expression-Assignment\Lambda Expression Assignment\Lambda Expression Assignment\obj\Debug\Lambda Expression Assignment.pdb
